@@ -1,5 +1,7 @@
 # Tutoriales Rust (Guía de Aprendizaje)
 
+![Rust Learning](Rust-Learning.png)
+
 Serie de pasos sugeridos para aprender Rust apoyándote en los videos del canal Píldoras Informáticas (https://www.youtube.com/@pildorasinformaticas). Contenido original de este README, usar los videos como refuerzo conceptual.
 
 ## Objetivos
@@ -124,4 +126,3 @@ Construir mini CLI: lectura de archivo, conteo de líneas, búsqueda de patrón.
 - Rustlings: https://github.com/rust-lang/rustlings
 - Playground: https://play.rust-lang.org
 
-## Estructura Sugerida de Carpetas (Ejemplo)
