@@ -23,6 +23,10 @@ name = "lifetimes_string_str"
 version = "0.1.0"
 
 [[package]]
+name = "map_filter_collect"
+version = "0.1.0"
+
+[[package]]
 name = "mutables_constantes"
 version = "0.1.0"
 
