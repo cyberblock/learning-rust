@@ -8,6 +8,7 @@
 resolver = "3"
 members = [
     "02_hola_rust",
+    "03_estructura_y_tipos",
     "04_variables_binding",
 ]
 
