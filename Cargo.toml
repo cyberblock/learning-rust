@@ -1,0 +1,35 @@
+# Workspace de Cargo: agrupa todos los proyectos del curso.
+# - Un único target/ compartido (menos espacio y compilaciones más rápidas).
+# - Desde la raíz:    cargo run -p borrowing
+#                     cargo run -p borrowing --example ejercicios
+#                     cargo build            (compila todos los proyectos)
+# - Dentro de cada carpeta sigue funcionando `cargo run` como siempre.
+[workspace]
+resolver = "3"
+members = [
+    "02_hola_rust",
+    "03_estructura_y_tipos",
+    "04_variables_binding",
+    "05_mutables_constantes",
+    "06_borrowing",
+    "07_lifetimes_string_str",
+    "08_slices",
+    "09_vectores_creacion",
+    "10_vectores_acceso",
+    "11_vectores_for",
+    "12_iteradores",
+    "13_map_filter_collect",
+    "14_funciones_calculo",
+    "15_ejemplo_notas",
+    "16_hashmap",
+    "17_hashmap_entry",
+]
+
+# Lints de Clippy que se desactivan a propósito: el curso usa vec![] y Vec::new()+push
+# para enseñar vectores, aunque en código real un array o vec![...] directo sería mejor.
+[workspace.lints.clippy]
+useless_vec = "allow"
+vec_init_then_push = "allow"
+# También se enseñan a propósito la forma larga `x = x + 1` y "declarar ahora, inicializar después"
+assign_op_pattern = "allow"
+needless_late_init = "allow"

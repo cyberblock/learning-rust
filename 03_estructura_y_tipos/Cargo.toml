@@ -1,0 +1,9 @@
+[package]
+name = "estructura_y_tipos"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[lints]
+workspace = true
