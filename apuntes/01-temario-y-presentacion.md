@@ -1,6 +1,7 @@
 # 01 · Temario, a quién va dirigido y preguntas frecuentes
 
 - **Vídeo:** https://www.youtube.com/watch?v=83R56Fz4jCw
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 12:57
 - **Código:** no hay (vídeo de presentación)
 

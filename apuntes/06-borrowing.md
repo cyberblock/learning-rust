@@ -1,6 +1,7 @@
 # 06 · Borrowing (préstamos)
 
 - **Vídeo:** https://www.youtube.com/watch?v=bPVWshg1tC4
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 20:20
 
 ## Resumen

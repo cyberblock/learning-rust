@@ -1,4 +1,5 @@
 //! Vídeo 02 · Características de Rust e instalación
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=81Yr-xwEr-A
 //! Apuntes: ../apuntes/02-caracteristicas-e-instalacion.md
 //!
 //! Primer proyecto creado con Cargo para comprobar que Rust está bien instalado.

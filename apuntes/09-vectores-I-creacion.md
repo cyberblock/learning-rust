@@ -1,6 +1,7 @@
 # 09 · Vectores I: creación y uso
 
 - **Vídeo:** https://www.youtube.com/watch?v=OKm246BwuFg
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 19:08
 
 ## Resumen

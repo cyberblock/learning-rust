@@ -1,4 +1,5 @@
 //! Vídeo 13 · Iteradores V: map(), filter() y collect()
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=5T-x8m6b-98
 //! Apuntes: ../apuntes/13-iteradores-map-filter-collect.md
 //!
 //! Problema: quedarse con los pares de un vector y multiplicarlos por 2.

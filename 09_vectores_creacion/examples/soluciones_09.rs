@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 09
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=OKm246BwuFg
 
 fn tabla_multiplicar(n: i32) -> Vec<i32> {
     let mut tabla = Vec::with_capacity(10); // sabemos que serán 10

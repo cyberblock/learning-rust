@@ -1,6 +1,7 @@
 # 08 · Slices
 
 - **Vídeo:** https://www.youtube.com/watch?v=CH2fpLz39Dg
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 17:11
 
 ## Resumen

@@ -1,6 +1,7 @@
 # 12 · Vectores IV: iteradores explícitos
 
 - **Vídeo:** https://www.youtube.com/watch?v=WYiWUfgwn5Y
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 11:20
 
 ## Resumen

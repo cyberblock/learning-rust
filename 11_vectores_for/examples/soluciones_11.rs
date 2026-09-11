@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 11
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=VfS3EKlMvzQ
 
 fn contar_mayores(v: &[i32], limite: i32) -> usize {
     let mut contador = 0;

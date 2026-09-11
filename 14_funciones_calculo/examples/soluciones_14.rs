@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 14
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=IC-GOBEF0Vc
 
 fn main() {
     let edades = vec![15, 22, 17, 34, 41, 19, 12];

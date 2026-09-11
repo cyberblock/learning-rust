@@ -1,6 +1,7 @@
 # 05 · Variables inmutables vs mutables vs constantes
 
 - **Vídeo:** https://www.youtube.com/watch?v=faj7967df4Q
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 19:35
 
 ## Resumen

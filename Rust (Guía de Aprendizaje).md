@@ -260,3 +260,11 @@ Construir una mini CLI: lectura de archivo, conteo de líneas y búsqueda de un 
 - Exercism, pista de Rust: https://exercism.org/tracks/rust
 - Documentación de la librería estándar: https://doc.rust-lang.org/std/
 - Playground: https://play.rust-lang.org
+
+## Créditos
+- **Autor del curso:** Juan, de [Píldoras Informáticas](https://www.pildorasinformaticas.es)
+- **Canal de YouTube:** [@pildorasinformaticas](https://www.youtube.com/@pildorasinformaticas)
+- **Lista original:** [Curso Rust](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmhyZZQN0IyYUgimevrPL-i)
+
+> Este repositorio contiene apuntes de estudio propios basados en su curso. No tiene relación oficial
+> con el autor ni con el canal. Los vídeos no se incluyen en el repositorio: se enlazan desde cada apunte.

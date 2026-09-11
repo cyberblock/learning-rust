@@ -1,4 +1,5 @@
 //! Vídeo 17 · HashMap II: claves duplicadas y actualizar valores
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=zBWrq4RYQNk
 //! Apuntes: ../apuntes/17-hashmap-II-claves-duplicadas.md
 //!
 //! | Método                  | Clave YA existe  | Clave NO existe | Devuelve                  |

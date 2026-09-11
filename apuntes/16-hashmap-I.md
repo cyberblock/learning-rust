@@ -1,6 +1,7 @@
 # 16 · HashMap I: guardar datos con clave y valor
 
 - **Vídeo:** https://www.youtube.com/watch?v=ThGAOWOZIM8
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 20:11
 
 ## Resumen

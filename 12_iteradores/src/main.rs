@@ -1,4 +1,5 @@
 //! Vídeo 12 · Vectores IV: iteradores explícitos
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=WYiWUfgwn5Y
 //! Apuntes: ../apuntes/12-vectores-IV-iteradores.md
 //!
 //! |                | Mueve (ownership)   | Préstamo inmutable | Préstamo mutable      |

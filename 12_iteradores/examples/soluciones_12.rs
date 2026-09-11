@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 12
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=WYiWUfgwn5Y
 
 fn main() {
     // 1.

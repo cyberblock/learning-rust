@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 13
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=5T-x8m6b-98
 
 fn pares_al_cuadrado() -> Vec<i32> {
     // Los rangos también son iteradores: no hace falta crear un vector antes

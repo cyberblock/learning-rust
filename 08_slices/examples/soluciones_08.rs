@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 08
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=CH2fpLz39Dg
 
 fn primera_palabra(frase: &str) -> &str {
     match frase.find(' ') {

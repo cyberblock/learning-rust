@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 03
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=roQHqh4lqM4
 
 fn main() {
     // 1. Inferencia: VS Code muestra i32, f64, bool y char

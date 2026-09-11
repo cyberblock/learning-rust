@@ -1,4 +1,5 @@
 //! Vídeo 10 · Vectores II: eliminar y acceder a elementos
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=2g2yv2hv9uM
 //! Apuntes: ../apuntes/10-vectores-II-eliminar-y-acceder.md
 //!
 //! Idea clave: Rust evita el `null`. Cuando algo puede no existir, devuelve Option<T>:

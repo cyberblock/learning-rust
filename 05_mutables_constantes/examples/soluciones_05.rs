@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 05
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=faj7967df4Q
 
 const IVA: f64 = 0.21;
 const VELOCIDAD_LUZ: u64 = 299_792_458; // 3a: fija y conocida al compilar → const

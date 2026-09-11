@@ -1,4 +1,5 @@
 //! Vídeo 15 · Ejemplo práctico: aprobados, nota media y nota más alta
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=dq-ifVDamss
 //! Apuntes: ../apuntes/15-ejemplo-practico-notas.md
 
 fn main() {

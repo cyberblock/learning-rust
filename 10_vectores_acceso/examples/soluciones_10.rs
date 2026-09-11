@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 10
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=2g2yv2hv9uM
 
 fn elemento_seguro(v: &[i32], i: usize) -> String {
     match v.get(i) {

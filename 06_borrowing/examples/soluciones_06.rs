@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 06
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=bPVWshg1tC4
 
 // En este vídeo se usa &String (referencia al String que hemos creado). En el vídeo 07
 // verás que para solo leer texto es mejor recibir &str; Clippy lo sugiere (ptr_arg).

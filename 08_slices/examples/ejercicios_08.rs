@@ -1,4 +1,5 @@
 // Ejercicios · Vídeo 08
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=CH2fpLz39Dg
 // Ejecuta con:  cargo run --example ejercicios_08
 // Soluciones:   cargo run --example soluciones_08
 //

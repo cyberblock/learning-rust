@@ -1,6 +1,7 @@
 # 13 · Iteradores V: `map()`, `filter()` y `collect()`
 
 - **Vídeo:** https://www.youtube.com/watch?v=5T-x8m6b-98
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 19:38
 
 ## Resumen

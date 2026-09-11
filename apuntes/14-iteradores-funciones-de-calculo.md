@@ -1,6 +1,7 @@
 # 14 · Iteradores VI: funciones útiles para cálculos
 
 - **Vídeo:** https://www.youtube.com/watch?v=IC-GOBEF0Vc
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 15:19
 
 ## Resumen

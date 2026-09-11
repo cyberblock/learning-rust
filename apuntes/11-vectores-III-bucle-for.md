@@ -1,6 +1,7 @@
 # 11 · Vectores III: recorrer un vector con `for`
 
 - **Vídeo:** https://www.youtube.com/watch?v=VfS3EKlMvzQ
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 15:43
 
 ## Resumen

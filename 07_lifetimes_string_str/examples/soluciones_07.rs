@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 07
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=qC661SO0WjI
 
 fn presentar(nombre: &str, edad: u32) -> String {
     // format! funciona como println!, pero devuelve un String en vez de imprimir

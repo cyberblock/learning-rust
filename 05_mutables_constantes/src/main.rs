@@ -1,4 +1,5 @@
 //! Vídeo 05 · Variables inmutables vs mutables vs constantes
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=faj7967df4Q
 //! Apuntes: ../apuntes/05-inmutables-mutables-constantes.md
 
 // Una constante puede declararse FUERA de cualquier función (ámbito global).

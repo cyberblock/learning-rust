@@ -1,4 +1,5 @@
 //! Vídeo 06 · Borrowing (préstamos)
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=bPVWshg1tC4
 //! Apuntes: ../apuntes/06-borrowing.md
 //!
 //! Reglas del borrowing:

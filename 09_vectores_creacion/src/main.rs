@@ -1,4 +1,5 @@
 //! Vídeo 09 · Vectores I: creación y uso
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=OKm246BwuFg
 //! Apuntes: ../apuntes/09-vectores-I-creacion.md
 //!
 //! Vec<T>: colección de elementos del mismo tipo que puede CRECER en ejecución.

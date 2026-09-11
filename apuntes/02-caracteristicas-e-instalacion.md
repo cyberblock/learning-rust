@@ -1,6 +1,7 @@
 # 02 · Características de Rust e instalación del software
 
 - **Vídeo:** https://www.youtube.com/watch?v=81Yr-xwEr-A
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 19:22
 
 ## Resumen

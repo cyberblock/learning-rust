@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 15
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=dq-ifVDamss
 
 fn calificacion(nota: f64) -> &'static str {
     if nota < 5.0 {

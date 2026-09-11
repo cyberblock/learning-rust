@@ -1,8 +1,11 @@
 # Apuntes · Curso de Rust (Píldoras Informáticas)
 
 Apuntes de estudio personales de la lista de reproducción
-[Curso Rust](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmhyZZQN0IyYUgimevrPL-i) de Píldoras Informáticas.
+[Curso Rust](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmhyZZQN0IyYUgimevrPL-i) de Juan,
+del canal [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas).
 Son resúmenes con explicaciones propias y el código de cada vídeo. Para la explicación completa, mira los vídeos originales.
+
+> Son apuntes de estudio propios basados en su curso, sin relación oficial con el autor ni con el canal.
 
 > Las **notas de precisión** marcadas en algunos apuntes son aclaraciones o correcciones técnicas añadidas que no aparecen en el vídeo.
 

@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 16
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=ThGAOWOZIM8
 
 use std::collections::HashMap;
 

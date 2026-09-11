@@ -1,4 +1,5 @@
 //! Vídeo 04 · Declaración de variables. Binding
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=ZgrkNenxjmw
 //! Apuntes: ../apuntes/04-declaracion-de-variables-binding.md
 
 fn main() {

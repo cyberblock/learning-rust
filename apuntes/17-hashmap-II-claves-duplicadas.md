@@ -1,6 +1,7 @@
 # 17 · HashMap II: claves duplicadas y actualizar valores
 
 - **Vídeo:** https://www.youtube.com/watch?v=zBWrq4RYQNk
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 11:08
 
 ## Resumen

@@ -1,6 +1,7 @@
 # 15 · Vectores: ejemplo práctico con notas (media y nota más alta)
 
 - **Vídeo:** https://www.youtube.com/watch?v=dq-ifVDamss
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 22:41
 
 ## Resumen

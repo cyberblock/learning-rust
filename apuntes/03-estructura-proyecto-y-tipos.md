@@ -1,6 +1,7 @@
 # 03 · Estructura de un proyecto y tipos de datos
 
 - **Vídeo:** https://www.youtube.com/watch?v=roQHqh4lqM4
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 22:13
 
 ## Resumen

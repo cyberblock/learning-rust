@@ -1,6 +1,7 @@
 # 07 · Lifetimes de variables y referencias. `String` vs `&str`
 
 - **Vídeo:** https://www.youtube.com/watch?v=qC661SO0WjI
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 13:08
 
 ## Resumen

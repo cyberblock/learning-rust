@@ -1,4 +1,5 @@
 // Soluciones · Vídeo 02
+// Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=81Yr-xwEr-A
 // Ejecuta con:  cargo run --example soluciones_02
 
 fn main() {

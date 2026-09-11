@@ -1,4 +1,5 @@
 //! Vídeo 03 · Estructura de un proyecto y tipos de datos
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=roQHqh4lqM4
 //! Apuntes: ../apuntes/03-estructura-proyecto-y-tipos.md
 //!
 //! Estructura que genera `cargo new`:

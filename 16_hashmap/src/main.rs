@@ -1,4 +1,5 @@
 //! Vídeo 16 · HashMap I: guardar datos con clave y valor
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=ThGAOWOZIM8
 //! Apuntes: ../apuntes/16-hashmap-I.md
 //!
 //! Vec     → lista ordenada, acceso por POSICIÓN

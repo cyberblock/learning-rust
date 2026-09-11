@@ -1,4 +1,5 @@
 //! Vídeo 14 · Iteradores VI: funciones útiles para cálculos
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=IC-GOBEF0Vc
 //! Apuntes: ../apuntes/14-iteradores-funciones-de-calculo.md
 //!
 //! Lo importante: fíjate en QUÉ DEVUELVE cada una (número, bool u Option).

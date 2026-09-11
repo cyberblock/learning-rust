@@ -1,4 +1,5 @@
 //! Vídeo 07 · Lifetimes de variables y referencias. String vs &str
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=qC661SO0WjI
 //! Apuntes: ../apuntes/07-lifetimes-string-vs-str.md
 
 fn main() {

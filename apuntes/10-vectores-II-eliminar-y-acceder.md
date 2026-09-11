@@ -1,6 +1,7 @@
 # 10 · Vectores II: eliminar y acceder a elementos
 
 - **Vídeo:** https://www.youtube.com/watch?v=2g2yv2hv9uM
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 18:21
 
 ## Resumen

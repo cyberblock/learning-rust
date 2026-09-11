@@ -1,4 +1,5 @@
 //! Vídeo 08 · Slices
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=CH2fpLz39Dg
 //! Apuntes: ../apuntes/08-slices.md
 //!
 //! Un slice es una REFERENCIA a una parte de una colección que ya existe:

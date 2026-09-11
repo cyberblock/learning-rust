@@ -1,4 +1,5 @@
 //! Vídeo 11 · Vectores III: recorrer un vector con for
+//! Autor: Píldoras Informáticas · https://www.youtube.com/watch?v=VfS3EKlMvzQ
 //! Apuntes: ../apuntes/11-vectores-III-bucle-for.md
 //!
 //! | Forma             | n es     | ¿vector usable después? | ¿modifica? |

@@ -1,6 +1,7 @@
 # 04 · Declaración de variables. Binding
 
 - **Vídeo:** https://www.youtube.com/watch?v=ZgrkNenxjmw
+- **Autor:** [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 - **Duración:** 19:39
 
 ## Resumen
