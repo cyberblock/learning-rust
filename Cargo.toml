@@ -10,6 +10,7 @@ members = [
     "02_hola_rust",
     "03_estructura_y_tipos",
     "04_variables_binding",
+    "05_mutables_constantes",
 ]
 
 # Lints de Clippy que se desactivan a propósito: el curso usa vec![] y Vec::new()+push
