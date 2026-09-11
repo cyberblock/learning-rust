@@ -22,6 +22,7 @@ members = [
     "14_funciones_calculo",
     "15_ejemplo_notas",
     "16_hashmap",
+    "17_hashmap_entry",
 ]
 
 # Lints de Clippy que se desactivan a propósito: el curso usa vec![] y Vec::new()+push

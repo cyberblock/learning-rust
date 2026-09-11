@@ -23,6 +23,10 @@ name = "hashmap"
 version = "0.1.0"
 
 [[package]]
+name = "hashmap_entry"
+version = "0.1.0"
+
+[[package]]
 name = "hola_rust"
 version = "0.1.0"
 
