@@ -11,6 +11,10 @@ name = "estructura_y_tipos"
 version = "0.1.0"
 
 [[package]]
+name = "funciones_calculo"
+version = "0.1.0"
+
+[[package]]
 name = "hola_rust"
 version = "0.1.0"
 
