@@ -16,6 +16,7 @@ members = [
     "08_slices",
     "09_vectores_creacion",
     "10_vectores_acceso",
+    "11_vectores_for",
 ]
 
 # Lints de Clippy que se desactivan a propósito: el curso usa vec![] y Vec::new()+push

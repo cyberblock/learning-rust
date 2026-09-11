@@ -37,3 +37,7 @@ version = "0.1.0"
 [[package]]
 name = "vectores_creacion"
 version = "0.1.0"
+
+[[package]]
+name = "vectores_for"
+version = "0.1.0"
