@@ -14,6 +14,7 @@ members = [
     "06_borrowing",
     "07_lifetimes_string_str",
     "08_slices",
+    "09_vectores_creacion",
 ]
 
 # Lints de Clippy que se desactivan a propósito: el curso usa vec![] y Vec::new()+push
