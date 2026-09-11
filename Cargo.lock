@@ -19,6 +19,10 @@ name = "funciones_calculo"
 version = "0.1.0"
 
 [[package]]
+name = "hashmap"
+version = "0.1.0"
+
+[[package]]
 name = "hola_rust"
 version = "0.1.0"
 
